@@ -60,7 +60,7 @@ lr = train_model(X, y)
 
 # 3. Streamlit UI and visuals  
 
-st.title("LinkedIn Usage Prediction App")
+st.title("Vic's LinkedIn User Prediction App")
 
 st.write("Move the sliders / selectors to see how the predicted probability changes.")
 
